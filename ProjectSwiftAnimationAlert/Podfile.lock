@@ -1,0 +1,16 @@
+PODS:
+  - SwiftAnimationAlert (1.0.0)
+
+DEPENDENCIES:
+  - SwiftAnimationAlert (from `../SwiftAnimationAlert/`)
+
+EXTERNAL SOURCES:
+  SwiftAnimationAlert:
+    :path: "../SwiftAnimationAlert/"
+
+SPEC CHECKSUMS:
+  SwiftAnimationAlert: b3b092ddeb806924daac495b3171a62d9d5bc629
+
+PODFILE CHECKSUM: f9d3c110349a23e13300c77c049dba530155e6e1
+
+COCOAPODS: 1.10.0

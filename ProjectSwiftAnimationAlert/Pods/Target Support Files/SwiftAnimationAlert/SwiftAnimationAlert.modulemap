@@ -1,0 +1,6 @@
+framework module SwiftAnimationAlert {
+  umbrella header "SwiftAnimationAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
